@@ -1,0 +1,1 @@
+configure the .sh and read the manual
